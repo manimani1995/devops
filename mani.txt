@@ -1,4 +1,3 @@
 git is a light weight
 git command writing
 git is very hard and try get very easy
-command like used hard
